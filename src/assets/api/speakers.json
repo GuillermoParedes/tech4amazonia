@@ -27,6 +27,18 @@
     ]
   },
   {
+    "title": "La Paz JS",
+
+    "image": "../../../assets/img/communities/lapazjs.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
     "title": "Asoblockchain Bolivia",
 
     "image": "../../../assets/img/communities/asociacionblockchainbolivia.jpg",
@@ -146,18 +158,7 @@
       }
     ]
   },
-  {
-    "title": "La Paz JS",
 
-    "image": "../../../assets/img/communities/reactbolivia.png",
-    "socials": [
-      {
-        "type": "Facebook",
-        "icon": "fa fa-facebook",
-        "url": ""
-      }
-    ]
-  },
   {
     "title": "Flutter Devs Bolivia",
 
