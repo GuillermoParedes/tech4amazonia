@@ -1,0 +1,377 @@
+[{
+    "Comunidad": "ReactBolivia",
+    "Speaker": "Guillermo David Paredes Torrez",
+    "Presentación speaker": "Software Development Engineer&#10;at Fondation Tutator, Founder and&#10;Lead Organizer React Bolivia&#10;And La Paz JS.",
+    "Tema": "React Native, creando aplicaciones moviles, como un NINJA",
+    "Tipo": "Charla",
+    "Fecha": "4/9/2019",
+    "Hora": "18:30",
+    "Lugar": "ucb bloque D aula D1"
+  },
+  {
+    "Comunidad": "GDG Android Bolivia",
+    "Speaker": "Gunar Ortiz",
+    "Tema": "Triggers de Firebase con Google Cloud Functions",
+    "Tipo": "Charla",
+    "Fecha": "4/9/2019",
+    "Hora": "19:00",
+    "Lugar": "ucb bloque D aula D1"
+  },
+  {
+    "Comunidad": "GDG Android Bolivia",
+    "Speaker": "Marcelo Torrez Azuga",
+    "Tema": "ML for mobile developers",
+    "Tipo": "Charla",
+    "Fecha": "4/9/2019",
+    "Hora": "19:30",
+    "Lugar": "ucb bloque D aula D1"
+  },
+  {
+    "Comunidad": "Asoblockchain Bolivia",
+    "Speaker": "Ivan Mercado",
+    "Presentación speaker": "PhD (c) IVAN MERCADO LORBERG&#10;De formación profesional Economista y cuenta con una maestría en Negocios Internacionales en la Florida International University (EE.UU.); y actualmente es candidato a un Doctorado sobre E-business en Estados Unidos. Docente en varias Universidades de Bolivia",
+    "Tema": "Oportunidades para trabajar con Blockchain e Inteligencia Artificial",
+    "Tipo": "Charla",
+    "Fecha": "5/9/2019",
+    "Hora": "18:30",
+    "Lugar": "ucb bloque D aula D1"
+  },
+  {
+    "Comunidad": "WIDs",
+    "Speaker": "Orietha Castillo",
+    "Presentación speaker": "MSc Busines Intelligence, lider de WIDs una iniciativa de la Univ. Stanford , lider de City.AI y Bolivia AI",
+    "Tema": "Topic Analysis",
+    "Tipo": "Charla",
+    "Fecha": "5/9/2019",
+    "Hora": "19:00",
+    "Lugar": "ucb bloque D aula D1"
+  },
+  {
+    "Comunidad": "Pyladies La Paz/GDGCloud La Paz",
+    "Speaker": "Monica Limachi",
+    "Presentación speaker": "Software Engineer",
+    "Tema": "Running your Notebooks on GCP",
+    "Tipo": "Charla",
+    "Fecha": "5/9/2019",
+    "Hora": "19:30",
+    "Lugar": "ucb bloque D aula D1"
+  },
+  {
+    "Comunidad": "WIDs",
+    "Speaker": "Susana Yana",
+    "Presentación speaker": "Informática, Máster en Inteligencia de Negocios",
+    "Tema": "Web scrapping",
+    "Fecha": "6/9/2019",
+    "Hora": "18:30",
+    "Lugar": "ucb bloque D aula D22"
+  },
+  {
+    "Comunidad": "Núcleo GNU/Linux",
+    "Speaker": "Duglas Apaza",
+    "Presentación speaker": "Web & Android Developer",
+    "Tema": "El Root en la actualidad",
+    "Tipo": "Charla",
+    "Fecha": "6/9/2019",
+    "Hora": "19:00",
+    "Lugar": "ucb bloque D aula D22"
+  },
+  {
+    "Comunidad": "GDG Cloud La Paz",
+    "Speaker": "Rodrigo Loza",
+    "Presentación speaker": "Devops engineer with vast knowledge in cloud providers, microservice architectures, containers, orchestrators, continuous integration/delivery/deployment, linux, version control, configuration management, monitoring and automation culture.&#10;Skills in linux, everything about docker, kubernetes, git, ansible, drone, jenkins, gcp, bash and python. &#10;Huge passion for math and software engineering. ",
+    "Tema": "Kubernetes API",
+    "Tipo": "Charla",
+    "Fecha": "6/9/2019",
+    "Hora": "19:30",
+    "Lugar": "ucb bloque D aula D22"
+  },
+  {
+    "Comunidad": "Asoblockchain Bolivia",
+    "Speaker": "Grover Leandro Suntura Mena",
+    "Presentación speaker": "Ingeniero de Sistemas, lider y creador del proyecto de realidad virtual Mundicoin y su criptomoneda",
+    "Tema": "Introducción a la Realidad Aumentada con Unity y Blockchain - Caso Mundicoin",
+    "Tipo": "Charla",
+    "Fecha": "7/9/2019",
+    "Hora": "9:00",
+    "Lugar": "upea"
+  },
+  {
+    "Comunidad": "Asoblockchain Bolivia",
+    "Speaker": "Carlos Murillo",
+    "Presentación speaker": "Abogado, ciberactivista, docente y ejerce la dirección de redes y sistemas de información en la UMSA",
+    "Tema": "Legalidad de los criptomonedas en Bolivia",
+    "Tipo": "Charla",
+    "Fecha": "7/9/2019",
+    "Hora": "9:30",
+    "Lugar": "upea"
+  },
+  {
+    "Comunidad": "Asoblockchain Bolivia",
+    "Speaker": "Huascar Miranda",
+    "Presentación speaker": "Ingeniero Industrial, experto en Criptomonedas y Blockchain, fundador del proyecto criptoanalisis.org, asesor del proyecto mundicon",
+    "Tema": "Contratos inteligentes, qué son? como funcionan? Derecho 2.0",
+    "Tipo": "Charla",
+    "Fecha": "7/9/2019",
+    "Hora": "10:00",
+    "Lugar": "upea"
+  },
+  {
+    "Comunidad": "We Devs",
+    "Speaker": "Arnaldo Muñoz",
+    "Presentación speaker": "Licenciado en informática, fundador del grupo de estudio We Devs Software Developer community, web developer y apasionado por las tecnologías web y la robótica.",
+    "Tema": "La importancia de la experiencia de usuario",
+    "Tipo": "Charla",
+    "Fecha": "7/9/2019",
+    "Hora": "10:30",
+    "Lugar": "upea"
+  },
+  {
+    "Comunidad": "Women TechmakersLa Paz",
+    "Speaker": "Silvana Gutierrez Montaño",
+    "Presentación speaker": "Systems Engineer / Software Developer (full stack) / Lead organaizer  de GDG La Paz y Ambassador  WTM La Paz / Co founder  AuroraSoft \"Smart Solutions\"&#10;Project entrepreneur focused on business, startups and promoter of free technologies.",
+    "Tema": "Chatbots con Dialogflow",
+    "Fecha": "7/9/2019",
+    "Hora": "11:00",
+    "Lugar": "upea"
+  },
+  {
+    "Comunidad": "México",
+    "Speaker": "Elain Huesca",
+    "Presentación speaker": "Community Manager México de Decred.org y Partner de Kapytal Exchange. Conferencista de Blockchain Talks en Amsterdam y Rotterdam, de Bitcoin Embassy México, Get Fintech, Bitcoin CDMX Meetup, UNAM, BUAP, UDLAP, IBERO, UIC y Universidad Anáhuac. Apasionado de los asuntos globales y las tecnologías disruptivas",
+    "Tema": "Qué es Bitcoin? y Gobernanza digital",
+    "Fecha": "7/9/2019",
+    "Hora": "11:30",
+    "Lugar": "upea"
+  },
+  {
+    "Comunidad": "WIDs",
+    "Speaker": "Rene Michel Y Jenny Murillo",
+    "Tema": "Chiquitania y tecnología, una perspectiva para proteger y restaurar nuestros bosques.",
+    "Tipo": "Charla",
+    "Fecha": "7/9/2019",
+    "Hora": "12:00",
+    "Lugar": "upea"
+  },
+  {
+    "Comunidad": "React Bolivia",
+    "Speaker": "Guillermo David Paredes Torrez",
+    "Tema": "Crea tu primera aplicación con React.js.",
+    "Tipo": "Taller",
+    "Fecha": "09/09/19",
+    "Hora": "18:00",
+    "Lugar": "LinkCowork - Av. Prado, edif. 16 de Julio"
+  }, {
+    "Comunidad": "Mojix",
+    "Speaker": "Omar Rivera",
+    "Tema": "Introduction to Machine Learning ",
+    "Tipo": "Taller",
+    "Fecha": "09/09/19",
+    "Hora": "19:00",
+    "Lugar": "auditorio planificacion"
+  }, {
+    "Comunidad": "Núcleo GNU / Linux",
+    "Speaker": "Samuel Loza",
+    "Tema": "Docker & ReactJS",
+    "Tipo": "Taller",
+    "Fecha": "09/09/19",
+    "Hora": "20:00",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "PyData La Paz",
+    "Speaker": "Cesar Ticona",
+    "Tema": "knowing machine learning",
+    "Tipo": "Charla",
+    "Fecha": "09/09/19",
+    "Hora": "18:00",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "Wikimedia Bolivia",
+    "Speaker": "Erlan Vega Rios",
+    "Tema": "API Wikipedia + py",
+    "Tipo": "Charla",
+    "Fecha": "09/09/19",
+    "Hora": "18:30",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "Mojix",
+    "Speaker": "Fabian Calcina",
+    "Presentación speaker": "Frontend Developer, autodidact lover of javascript and algorithms. &#10;I am currently member of Xtime Inspect and I am working  with Angular, React and Extjs",
+    "Tema": "Let's start with React",
+    "Tipo": "Charla",
+    "Fecha": "09/09/19",
+    "Hora": "19:00",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "Mojix",
+    "Speaker": "Andres Vasquez",
+    "Presentación speaker": "Andrés Vasquez Agramont, desarrollador Mobile, docente y emprendedor. Apasionado por el trabajo en equipo, aprendizaje de nuevas tecnologías y la participación en comunidades de desarrollo.",
+    "Tema": "Bluetooth Low Energy, aplicaciones de proximidad Offline.",
+    "Tipo": "Charla",
+    "Fecha": "09/09/19",
+    "Hora": "19:30",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "React Bolivia",
+    "Speaker": "Pablo Montes Jordan",
+    "Tema": "React + Mapbox: En este taller, los participantes aprenderán a manejar la el sistema de mapeo, Mapbox mediante la libreria react-mapbox-gl",
+    "Tipo": "Charla",
+    "Fecha": "11/09/2019",
+    "Hora": "18:30",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "La Paz JS",
+    "Speaker": "Adrian Pedro Zelada Torrez",
+    "Tema": "Desarrollo de Aplicaciones Angular",
+    "Tipo": "Charla",
+    "Fecha": "11/09/2019",
+    "Hora": "19:00",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "La Paz JS",
+    "Speaker": "Guillermo David Paredes Torrez",
+    "Presentación speaker": "Software Development Engineer&#10;at Fondation Tutator, Founder and&#10;Lead Organizer React Bolivia&#10;And La Paz JS.",
+    "Tema": "Desarrollo de aplicaciones con Node",
+    "Tipo": "Charla",
+    "Fecha": "11/09/2019",
+    "Hora": "19:30",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "La Paz Js",
+    "Speaker": "Adrian Pedro Zelada Torrez",
+    "Tema": "PWA",
+    "Tipo": "Charla",
+    "Fecha": "13/09/2019",
+    "Hora": "18:30",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "We Devs",
+    "Speaker": "Joshua Oliver Zullet Pareja",
+    "Presentación speaker": "Desarrollador web con experiencia laboral y manejo del framework laravel",
+    "Tema": "Desarrollo web en el 2019",
+    "Tipo": "Charla",
+    "Fecha": "13/09/2019",
+    "Hora": "19:00",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "Flutter Devs Bolivia",
+    "Speaker": "Alvaro Martinez Mancilla",
+    "Presentación speaker": "Lead Organizer comunidad \"Flutter Devs Bolivia\", como tambien co-Founder de AuroraSoft \"Smart Solutions\", proyecto enfocado en la implementacion de tecnologias libres y emergentes en negocios y startups.",
+    "Tema": "Flutter Web (awesome and easy Fronted)",
+    "Tipo": "Charla",
+    "Fecha": "13/09/2019",
+    "Hora": "19:30",
+    "Lugar": "auditorio planificacion"
+  },
+  {
+    "Comunidad": "React Bolivia",
+    "Speaker": "Pablo Montes Jordan",
+    "Tema": "React 360",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "14:30",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "GDG LA PAZ",
+    "Speaker": "Marco Leonardini",
+    "Tema": "Flutter and Firebase",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "15:30",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "GDG LA PAZ",
+    "Speaker": "Victor Angel Chambi Nina",
+    "Tema": "CI/CD",
+    "Fecha": "14/9/2019",
+    "Hora": "16:00",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "GDG LA PAZ",
+    "Speaker": "Luis Miguel Mantilla",
+    "Presentación speaker": "Software Engineer at NearshoreCode, Co-Organizer de la comunidad GDG La Paz, Speaker, Traveler y apasionado por Dart y Flutter.",
+    "Tema": "Choose a state management solution for your Flutter App",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "16:30",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "Mojix",
+    "Speaker": "Mauricio Alarcon",
+    "Presentación speaker": "Full Stack Developer, enfocado en las ultimas tecnologias y metodologias de desarrollo de software, desde el diseño de interfaces de usuario, hasta la escalabilidad y arquitectura de software.",
+    "Tema": "Full Stack Agile Development",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "17:00",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "Data Science Bolivia",
+    "Speaker": "Fernando Silva",
+    "Tema": "Convolutional Neural Networks in a nutshell",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "17:30",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "PyData La Paz",
+    "Speaker": "Pedro Arteaga",
+    "Tema": "Crawling with Python",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "18:00",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "PyData La Paz",
+    "Speaker": "Jorge Callisaya",
+    "Tema": "Django for dummies",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "18:30",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "Núcleo GNU/Linux",
+    "Speaker": "John Choque",
+    "Tema": "Desarrollo sostenible y software libre",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "19:00",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "Núcleo GNU/Linux  - Pyladies La Paz",
+    "Speaker": "Alfredo Callizaya Gutierrez",
+    "Presentación speaker": "Desarrollador Python - Django, PHP - Laravel. Instructor en diversos talleres y Organizador de comunidades de Python, Pyladies La Paz y Nucleo GNU Linux, OSM Bolivia.&#10;Impulsador en el manejo de herramientas OpenSource",
+    "Tema": "Tips de Desarrollo Web",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "19:30",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  },
+  {
+    "Comunidad": "React Bolivia",
+    "Speaker": "Arnol Robles Tintaya",
+    "Presentación speaker": "Full Stack & Game Developer, Founder of TodoGames Studios, Lead Organizer at React Bolivia, AI Programmer at Nothing Box Studios, Teacher at Univalle in Systems Engineering and Videogame Development careers, always looking for new technologies, passionate about AR and VR.",
+    "Tema": "React 360 & Oculus GO: New web VR experiences",
+    "Tipo": "Charla",
+    "Fecha": "14/9/2019",
+    "Hora": "20:00",
+    "Lugar": "Auditorio principal EMI - Irpavi"
+  }
+]

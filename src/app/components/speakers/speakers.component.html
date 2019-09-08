@@ -1,0 +1,24 @@
+<section id="speakers" class="wow fadeInUp">
+  <div class="container">
+    <div class="section-header">
+      <h2>Comunidades</h2>
+      <p>Las comunidades, que son parte de esta iniciativa.</p>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-4 col-md-6" *ngFor="let speak of speakers">
+        <div class="speaker" style="width: 250px; height: 250px">
+          <img [src]="speak.image" alt="Speaker 1" class="img-fluid" width="250" style="background-size: contain">
+          <div class="details">
+            <h3><a>{{speak?.title}}</a></h3>
+            <p>{{speak?.description}}</p>
+            <div class="social">
+              <a *ngFor="let social of speak.socials" [attr.href]="social?.url"><i [className]="social?.icon"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>

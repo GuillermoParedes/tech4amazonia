@@ -1,0 +1,41 @@
+<!--==========================
+      Schedule Section
+    ============================-->
+<section id="schedule" class="section-with-bg">
+  <div class="container wow fadeInUp">
+    <div class="section-header">
+      <h2>Charlas y Talleres</h2>
+      <p>Seleccione la fecha, para poder observar el cronograma de la misma.</p>
+    </div>
+
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item m-1" *ngFor="let date of dates; let i of index">
+        <a class="nav-link" [attr.href]="'#tab' + i.tab" role="tab" data-toggle="tab">{{date.label}}</a>
+      </li>
+    </ul>
+
+    <h3 class="sub-heading">Fechas y horarios, de nuestras Charlas y Talleres.</h3>
+
+    <div class="tab-content row justify-content-center">
+
+      <!-- Schdule Day 1 -->
+      <div *ngFor="let schedule of schedules; let i = index" role="tabpanel" class="col-lg-9 tab-pane fade"
+        [id]="'tab'+dates[i].tab">
+        <div *ngFor="let sche of schedule" class="row schedule-item">
+          <div class="col-md-2"><time>{{sche?.Hora}}</time></div>
+          <div class="col-md-10">
+            <h4>{{sche?.Tema}}</h4>
+            <h6>{{sche?.Speaker}}</h6>
+            <p>Comunidad: {{sche?.Comunidad}} <br /> Lugar: {{sche?.Lugar}} </p>
+            <span class="badge badge-success">{{sche?.Tipo}}</span>
+          </div>
+        </div>
+
+      </div>
+      <!-- End Schdule Day 1 -->
+
+    </div>
+
+  </div>
+
+</section>

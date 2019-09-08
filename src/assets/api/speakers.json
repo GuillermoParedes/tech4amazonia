@@ -1,0 +1,209 @@
+[
+  {
+    "title": "React Bolivia",
+    "image": "../../../assets/img/communities/reactbolivia.png",
+    "socials": [
+      {
+        "type": "Twitter",
+        "icon": "fa fa-twitter",
+        "url": "https://twitter.com/ReactBolivia"
+      },
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": "https://facebook.com/ReactBolivia"
+      }
+    ]
+  },
+  {
+    "title": "GDG Android Bolivia",
+    "image": "../../../assets/img/communities/gdgandroidbolivia.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Asoblockchain Bolivia",
+
+    "image": "../../../assets/img/communities/asociacionblockchainbolivia.jpg",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "WIDs",
+
+    "image": "../../../assets/img/communities/widslapaz.jpg",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Pyladies La Paz",
+
+    "image": "../../../assets/img/communities/pydalieslapaz.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "GDG Cloud La Paz",
+
+    "image": "../../../assets/img/communities/gdgcloudlapaz.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Núcleo GNU/Linux",
+
+    "image": "../../../assets/img/communities/nucleognulinux.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "We Devs",
+
+    "image": "../../../assets/img/communities/wedevs.jpg",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Women TechmakersLa Paz",
+
+    "image": "../../../assets/img/communities/womentechmakerslapaz.jpg",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "PyData La Paz",
+
+    "image": "../../../assets/img/communities/pydatalapaz.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Wikimedia Bolivia",
+
+    "image": "../../../assets/img/communities/wikimediabolivia.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Mojix",
+
+    "image": "../../../assets/img/communities/mojix.jpg",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "La Paz JS",
+
+    "image": "../../../assets/img/communities/reactbolivia.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Flutter Devs Bolivia",
+
+    "image": "../../../assets/img/communities/flutterdevsbolivia.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "GDG LA PAZ",
+
+    "image": "../../../assets/img/communities/gdglapaz.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Data Science Bolivia",
+
+    "image": "../../../assets/img/communities/datasciencebolivia.jpeg",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Fuckup Nights La Paz",
+
+    "image": "../../../assets/img/communities/fuckupnightslapaz.png",
+    "socials": [
+      {
+        "type": "Facebook",
+        "icon": "fa fa-facebook",
+        "url": ""
+      }
+    ]
+  }
+]
