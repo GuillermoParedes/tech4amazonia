@@ -1,4 +1,5 @@
-[{
+[
+  {
     "Comunidad": "ReactBolivia",
     "Speaker": "Guillermo David Paredes Torrez",
     "Presentación speaker": "Software Development Engineer&#10;at Fondation Tutator, Founder and&#10;Lead Organizer React Bolivia&#10;And La Paz JS.",
@@ -160,22 +161,24 @@
     "Fecha": "09/09/19",
     "Hora": "18:00",
     "Lugar": "LinkCowork - Av. Prado, edif. 16 de Julio"
-  }, {
+  },
+  {
     "Comunidad": "Mojix",
     "Speaker": "Omar Rivera",
     "Tema": "Introduction to Machine Learning ",
     "Tipo": "Taller",
     "Fecha": "09/09/19",
     "Hora": "19:00",
-    "Lugar": "auditorio planificacion"
-  }, {
+    "Lugar": "LinkCowork - Av. Prado, edif. 16 de Julio"
+  },
+  {
     "Comunidad": "Núcleo GNU / Linux",
     "Speaker": "Samuel Loza",
     "Tema": "Docker & ReactJS",
     "Tipo": "Taller",
     "Fecha": "09/09/19",
     "Hora": "20:00",
-    "Lugar": "auditorio planificacion"
+    "Lugar": "LinkCowork - Av. Prado, edif. 16 de Julio"
   },
   {
     "Comunidad": "PyData La Paz",
